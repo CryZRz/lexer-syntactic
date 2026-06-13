@@ -1,0 +1,13 @@
+programa ejemplo
+    binario multiple, num;
+    octal numero = 23O;
+    hexa res;
+
+    leer (num);
+    Alex
+    multiple =10010B+1001B;
+    numero = numero + 123O*101O;
+    res = ADFX - B112EX;
+    escribir(res);
+
+finprograma

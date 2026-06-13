@@ -1,0 +1,8 @@
+programa miprograma
+    binario alfa,beta;
+    hexad r;
+    alfa=01001000B;
+    leer (alfa);
+    beta=alfa+litbinaria;
+    escribir (beta);
+finprograma
